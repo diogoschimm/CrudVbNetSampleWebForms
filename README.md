@@ -12,6 +12,8 @@ CRUD em VB.NET de Exemplo para Sistemas Legados
 
 ## Script do banco de dados
 
+- Utilize o script abaixo para o banco de dados no SQL Server
+
 ```tsql
 CREATE DATABASE DbVendasSample;
 GO
