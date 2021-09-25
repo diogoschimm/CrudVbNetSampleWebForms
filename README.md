@@ -5,7 +5,9 @@ CRUD em VB.NET de Exemplo para Sistemas Legados
 
 ```xml
  <add name="ConnectionStringBase" 
-      connectionString="Data Source=EST-BT13\SQL2017;Initial Catalog=DbVendasSample;Integrated Security=SSPI;"/>
+      connectionString="Data Source=<<HostName>>\<<InstanceName>>;
+			Initial Catalog=DbVendasSample;
+			Integrated Security=SSPI;"/>
 ```
 
 ## Script do banco de dados
