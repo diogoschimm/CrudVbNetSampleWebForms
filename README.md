@@ -4,7 +4,8 @@ CRUD em VB.NET de Exemplo para Sistemas Legados
 - Troque a string de conexão no arquivo web.config do projeto web
 
 ```xml
- <add name="ConnectionStringBase" connectionString="Data Source=EST-BT13\SQL2017;Initial Catalog=DbVendasSample;Integrated Security=SSPI;"/>
+ <add name="ConnectionStringBase" 
+      connectionString="Data Source=EST-BT13\SQL2017;Initial Catalog=DbVendasSample;Integrated Security=SSPI;"/>
 ```
 
 ## Script do banco de dados
