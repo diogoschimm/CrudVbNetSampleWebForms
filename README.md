@@ -26,3 +26,8 @@ CREATE TABLE Clientes
 	documentoCliente varchar(14)
 )
 ```
+
+## Estrutura do Projeto
+
+![image](https://user-images.githubusercontent.com/30643035/134756611-9c8f244a-90c7-4508-9b64-f3d64a6998c4.png)
+
